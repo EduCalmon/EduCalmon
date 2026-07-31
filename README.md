@@ -1,6 +1,6 @@
 <img width="4592" height="4592" alt="Ste" src="https://github.com/user-attachments/assets/21ac2526-137c-40d0-b104-9d25e0b53e91" />## ✨ Olá, eu sou Eduardo Calmon! ✨
 
-<img src="Ste.jpg" width="280" style="border-radius: 15px; margin-bottom: 20px;" />
+<img src="Ste.jpg" width="120" style="border-radius: 15px; margin-bottom: 20px;" />
 
 * 🎓 Graduando em Ciência da Computação.
 * 🎬 Editor de vídeo e Gestor de Mídias Sociais.
