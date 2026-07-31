@@ -2,7 +2,7 @@
 
 <img width="250" height="250" src="https://github.com/user-attachments/assets/21ac2526-137c-40d0-b104-9d25e0b53e91" />
 
-
+### Sobre mim 🙋🏻
 * 🎓 Graduando em Ciência da Computação.
 * 🎬 Editor de vídeo e Gestor de Mídias Sociais.
 * 🛡️ Entusiasta de Cibersegurança.
@@ -19,8 +19,8 @@
 ### GitHub Stats ⚡
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=EduCalmon&show_icons=true&theme=radical&hide_border=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduCalmon&layout=compact&theme=radical&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=EduCalmon&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EduCalmon&layout=compact&theme=radical&hide_border=true" width="48%" />
 </p>
 
 ### Reach me 📫
