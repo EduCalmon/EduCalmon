@@ -16,13 +16,6 @@
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" />
 </p>
 
-### GitHub Stats ⚡
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EduCalmon&show_icons=true&theme=radical&hide_border=true&v=1" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EduCalmon&layout=compact&theme=radical&hide_border=true&v=1" height="160" />
-</p>
-
 ### Reach me 📫
 
 <p align="left">
