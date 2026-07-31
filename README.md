@@ -1,4 +1,6 @@
-<img width="100" height="100" src="https://github.com/user-attachments/assets/21ac2526-137c-40d0-b104-9d25e0b53e91" />## Olá, eu sou Eduardo Calmon!
+## Olá, eu sou Eduardo Calmon!
+
+<img width="250" height="250" src="https://github.com/user-attachments/assets/21ac2526-137c-40d0-b104-9d25e0b53e91" />
 
 * 🎓 Graduando em Ciência da Computação.
 * 🎬 Editor de vídeo e Gestor de Mídias Sociais.
