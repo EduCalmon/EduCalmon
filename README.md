@@ -1,14 +1,14 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050816,50:0b1026,100:00f5d4&text=EDUARDO%20CALMON&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=CYBERSECURITY%20%7C%20PYTHON%20%7C%20CREATIVE%20TECHNOLOGY&descAlignY=60&descSize=16&animation=twinkling" alt="Banner Eduardo Calmon" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050816,50:0b1026,100:00f5d4&text=EDUARDO%20CALMON&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=MARKETING%20%7C%20PYTHON%20%7C%20CREATIVE%20TECHNOLOGY&descAlignY=60&descSize=16&animation=twinkling" alt="Banner Eduardo Calmon" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=00F5D4&center=true&vCenter=true&width=760&lines=%5B+SYSTEM+ONLINE+%5D;%3E%3E%3E+Initializing+Eduardo+Calmon...;%3E%3E%3E+Computer+Science+Student;%3E%3E%3E+Cybersecurity+Enthusiast;%3E%3E%3E+Creative+mind+building+digital+experiences" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=00F5D4&center=true&vCenter=true&width=760&lines=%5B+SYSTEM+ONLINE+%5D;%3E%3E%3E+Initializing+Eduardo+Calmon...;%3E%3E%3E+Computer+Science+Student;%3E%3E%3E+Marketing+%26+Digital+Strategy;%3E%3E%3E+Creative+mind+building+digital+experiences" alt="Typing animation" />
 </div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-ONLINE-00F5D4?style=for-the-badge&labelColor=050816" alt="Status online" />
-  <img src="https://img.shields.io/badge/FOCUS-CYBERSECURITY-8B5CF6?style=for-the-badge&labelColor=050816" alt="Focus cybersecurity" />
+  <img src="https://img.shields.io/badge/FOCUS-MARKETING-8B5CF6?style=for-the-badge&labelColor=050816" alt="Focus marketing" />
   <img src="https://img.shields.io/badge/LOCATION-BRAZIL-22C55E?style=for-the-badge&labelColor=050816" alt="Location Brazil" />
 </p>
 
@@ -58,24 +58,24 @@
   </tr>
 </table>
 
-<h2>╭─「 PROJETOS & LABS 」</h2>
+<h2>╭─「 PROJETOS EM DESTAQUE 」</h2>
 
 <table align="center">
   <tr>
     <td width="33%" valign="top">
-      <h3>🐍 Python Lab</h3>
-      <p>Scripts, automações e experimentos para resolver problemas do dia a dia com código limpo.</p>
-      <a href="https://github.com/EduCalmon?tab=repositories&q=python&type=public">VER REPOSITÓRIOS →</a>
+      <h3>🤖 Claude Over</h3>
+      <p>Biblioteca de skills para criação de vídeos de curiosidades com pesquisa, narração, sincronização e direção de animação.</p>
+      <a href="https://github.com/EduCalmon/Claude-Over">EXPLORAR PROJETO →</a>
     </td>
     <td width="33%" valign="top">
-      <h3>🛡️ Cyber Lab</h3>
-      <p>Estudos práticos sobre Linux, redes, segurança da informação e mentalidade defensiva.</p>
-      <a href="https://github.com/EduCalmon?tab=repositories&q=security&type=public">VER REPOSITÓRIOS →</a>
+      <h3>🏢 Consultar CNPJ</h3>
+      <p>Aplicação em Python para consultar dados empresariais por meio da Brasil API, com retorno completo em JSON.</p>
+      <a href="https://github.com/EduCalmon/Consultar-CNPJ">EXPLORAR PROJETO →</a>
     </td>
     <td width="33%" valign="top">
-      <h3>🎬 Creative Lab</h3>
-      <p>Conteúdo, edição e experiências visuais conectando tecnologia, comunicação e criatividade.</p>
-      <a href="https://github.com/EduCalmon?tab=repositories">EXPLORAR PERFIL →</a>
+      <h3>🧮 Calculadora de Imposto</h3>
+      <p>Projeto focado em automatizar cálculos tributários de forma simples, prática e acessível.</p>
+      <a href="https://github.com/EduCalmon/Calculadora-imposto">EXPLORAR PROJETO →</a>
     </td>
   </tr>
 </table>
@@ -87,12 +87,12 @@
 └─$ cat current_objectives.txt
 
 [01] Evoluir em Python e automação                         [████████░░] 80%
-[02] Aprofundar fundamentos de cibersegurança               [███████░░░] 70%
+[02] Desenvolver estratégias de Marketing Digital           [███████░░░] 70%
 [03] Construir projetos open source com impacto             [██████░░░░] 60%
 [04] Desenvolver uma presença digital cada vez mais forte  [████████░░] 80%
 
-└─$ echo "Stay curious. Build boldly. Secure everything."
-Stay curious. Build boldly. Secure everything.
+└─$ echo "Stay curious. Build boldly. Create impact."
+Stay curious. Build boldly. Create impact.
 ```
 
 <h2>╭─「 GITHUB ANALYTICS 」</h2>
